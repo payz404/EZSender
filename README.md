@@ -1,8 +1,8 @@
 <b>EZSender v.1.0</b>
 <br>
-require = python3
+Require : python3
 <br>
-coded by Im.Payz
+Coded by : Im.Payz
 <br>
 <br>
 <h3>Setingings ?</h3>
@@ -58,7 +58,7 @@ Set Letter: EZConfig/Mailist
 <br>
 <b>Contact Me:</b>
 <br>
-  •WhatsApp: +6282246831089
+  •WhatsApp: <a href="https://api.whatsapp.com/send?phone=+6282246831089">Payz</a>
   <br>
   •Facebook: <a href="https://facebook.com/naufal.frs.5">Naufal</a>
   <br>
