@@ -11,7 +11,7 @@ Sender Sentting: ezsender.py
 <br>
 Set List: EZConfig/Mailist
 <br>
-Set Letter: EZConfig/Mailist
+Set Letter: EZConfig/Letter
 <br>
   <h3>How To Use ?</h3>
 <br>
