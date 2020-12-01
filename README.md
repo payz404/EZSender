@@ -44,7 +44,7 @@ Set Letter: EZConfig/Letter
   <br>
   • {device} = random Device
   <br>
-  • {browswe} = random Browser
+  • {browser} = random Browser
   <br>
   • {date} =  01 Des,2020
   <br>
