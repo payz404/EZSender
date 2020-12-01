@@ -5,7 +5,7 @@ Require : python3
 Coded by : Im.Payz
 <br>
 <br>
-<h3>Setingings ?</h3>
+<h3>Settings ?</h3>
 <br>
 Sender Setting: ezsender.py
 <br>
