@@ -7,7 +7,7 @@ Coded by : Im.Payz
 <br>
 <h3>Setingings ?</h3>
 <br>
-Sender Sentting: ezsender.py
+Sender Setting: ezsender.py
 <br>
 Set List: EZConfig/Mailist
 <br>
